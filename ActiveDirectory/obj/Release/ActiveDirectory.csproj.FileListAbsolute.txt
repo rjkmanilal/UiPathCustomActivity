@@ -1,0 +1,6 @@
+C:\D_Drive\DotNetProjects\ActiveDirectory\ActiveDirectory\ActiveDirectory\bin\Release\ActiveDirectory.dll
+C:\D_Drive\DotNetProjects\ActiveDirectory\ActiveDirectory\ActiveDirectory\bin\Release\ActiveDirectory.pdb
+C:\D_Drive\DotNetProjects\ActiveDirectory\ActiveDirectory\ActiveDirectory\obj\Release\ActiveDirectory.csproj.CoreCompileInputs.cache
+C:\D_Drive\DotNetProjects\ActiveDirectory\ActiveDirectory\ActiveDirectory\obj\Release\ActiveDirectory.dll
+C:\D_Drive\DotNetProjects\ActiveDirectory\ActiveDirectory\ActiveDirectory\obj\Release\ActiveDirectory.pdb
+C:\D_Drive\DotNetProjects\ActiveDirectory\ActiveDirectory\ActiveDirectory\obj\Release\ActiveDirectory.csprojAssemblyReference.cache
